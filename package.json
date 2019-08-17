@@ -1,0 +1,8 @@
+{
+  "name": "advantage-flyer",
+  "version": "1.0.0",
+  "description": "various gatsby pet and livestock fliers",
+  "main": "index.js",
+  "author": "Paul Hosler <pahosler@gmail.com>",
+  "license": "MIT"
+}
